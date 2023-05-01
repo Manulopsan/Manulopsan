@@ -16,7 +16,7 @@ Soy ingeniero industrial con 12 años de experiencia en la implantación de herr
 
 
 ## Intereses
-Re-orientar mi carrera profesional hacia la programación. Actualmente en un bootcamp de full stack developer desarrollándome en: 
+Re-orientar mi carrera profesional hacia la programación. 🌱 Actualmente en un bootcamp de full stack developer desarrollándome en: 
 
 | Que | Descripción |
 | --- | --- |
